@@ -16,6 +16,8 @@ I am a Junior Data Analyst developing my career in Data Analysis, Business Intel
  - Meter Distribution & Capture Analysis
    An operational analytics project focused on monitoring meter distribution, installation progress, contractor performance, and pending installations.
 
+    [View my Meter Distribution & Capture Analysis project](https://github.com/Nwigbo-Emmanuella/Meter-distribution-analysis)
+
    ## Key Results:
    - 926 meters recorded
    -  695 meters installed
@@ -27,8 +29,6 @@ I am a Junior Data Analyst developing my career in Data Analysis, Business Intel
    - Power Query
    - Power BI
    - DAX
-
-     [View my Meter Distribution & Capture Analysis project](https://github.com/Nwigbo-Emmanuella/Meter-distribution-analysis)
 
 🎯 Career Goals
  I’m continuously developing my analytical, technical, and problem-solving skills while building projects that demonstrate how data can support informed business decisions.
