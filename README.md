@@ -29,6 +29,24 @@ I am a Junior Data Analyst developing my career in Data Analysis, Business Intel
    - Power Query
    - Power BI
    - DAX
+  
+     📊 Sales Performance Analysis - Excel
+
+     ##  Tools Used
+     - Microsoft Excel
+     - PivotTables
+     - Formulas
+     - Charts and data cleaning
+
+       An analytical dashboard project focused on evaluating sales performance, tracking key performance indicators, identifying trends and presenting business insights to support informed decisions.
+
+       ## Key Focus Areas:
+       - Sales and monthly trend analysis
+       - Product and regional performance
+       - Revenue and profitability metrics
+       - Business imsights and recommendations
+
+         ## Dashboard improvements and validation are in progress
 
 🎯 Career Goals
  I’m continuously developing my analytical, technical, and problem-solving skills while building projects that demonstrate how data can support informed business decisions.
