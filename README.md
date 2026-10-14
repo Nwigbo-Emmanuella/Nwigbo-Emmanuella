@@ -29,42 +29,34 @@ I am a Junior Data Analyst developing my career in Data Analysis, Business Intel
    - Power Query
    - Power BI
    - DAX
-  
-     📊 Sales Performance Analysis - Excel
 
-     ##  Tools Used
-     - Microsoft Excel
-     - PivotTables
-     - Formulas
-     - Charts and data cleaning
+## 📊 Project 2: Sales Performance Analysis (Excel)
 
-       An analytical dashboard project focused on evaluating sales performance, tracking key performance indicators, identifying trends and presenting business insights to support informed decisions.
+An Excel-based sales analytics project focused on identifying sales trends, evaluating product and regional performance, and generating actionable business insights.
 
-       ## Key Focus Areas:
-       - Sales and monthly trend analysis
-       - Product and regional performance
-       - Revenue and profitability metrics
-       - Business imsights and recommendations
+## Tools Used
 
-         ## Dashboard improvements and validation are in progress
+* Microsoft Excel
+* PivotTables
+* Excel formulas
+* Charts and data cleaning
 
-🎯 Career Goals
+## Key Focus Areas
+
+* Sales and monthly trend analysis
+* Product and regional performance
+* Revenue and profitability metrics
+* Business insights and recommendations
+
+## Project Status:  Completed - dashboard improvements, data validation, and analysis finalized.
+
+## Project Repository: [Download the Excel Sales Analysis Workbook](./Sales-Performance-Analysis.xlsx)
+
+## 🎯 Career Goals
  I’m continuously developing my analytical, technical, and problem-solving skills while building projects that demonstrate how data can support informed business decisions.
 
-
-🤝 Let’s Connect
-
+## 🤝 Let’s Connect
 I’m open to connecting with data professionals, learning from industry experts, and exploring opportunities in data analytics and business intelligence.
 
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
