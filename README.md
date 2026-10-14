@@ -50,8 +50,7 @@ An Excel-based sales analytics project focused on identifying sales trends, eval
 
 ## Project Status:  Completed - dashboard improvements, data validation, and analysis finalized.
 
-## Project Repository: [Download the Excel Sales Analysis Workbook](./Sales-Performance-Analysis.xlsx)
-
+##  Project Repository: [View Sales Performance Analysis on GitHub](https://github.com/Nwigbo-Emmanuella/Sales-performance-Analysis-Excel)
 ## 🎯 Career Goals
  I’m continuously developing my analytical, technical, and problem-solving skills while building projects that demonstrate how data can support informed business decisions.
 
