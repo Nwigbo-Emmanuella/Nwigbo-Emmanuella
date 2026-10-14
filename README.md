@@ -55,10 +55,9 @@ I am a Junior Data Analyst developing my career in Data Analysis, Business Intel
 🤝 Let’s Connect
 
 I’m open to connecting with data professionals, learning from industry experts, and exploring opportunities in data analytics and business intelligence.
-<!--
-**Nwigbo-Emmanuella/Nwigbo-Emmanuella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
